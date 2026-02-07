@@ -4,7 +4,7 @@ export default function Home() {
     return (
         <div className="min-h-screen flex flex-col items-center justify-center bg-gray-900 text-gray-100 p-4">
             <h1 className="text-4xl font-bold mb-4 text-center">
-                Student Welfare & Discipline System
+                Student Incident Report
             </h1>
             <p className="text-gray-400 mb-8 text-center max-w-lg">
                 Welcome! If you witnessed or experienced an incident, you can
